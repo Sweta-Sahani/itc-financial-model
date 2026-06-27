@@ -99,4 +99,4 @@ This model is a student academic exercise built from publicly available data. It
 ---
 
 **Analyst:** Sweta Sahani | BBA Year 2, VIT Chennai | June 2026  
-**Connect:** [LinkedIn](https://www.linkedin.com/in/sweta-sahani) | [GitHub](https://github.com/Sweta-Sahani)
+**Connect:** [LinkedIn](www.linkedin.com/in/sweta-sahani-686251409) | [GitHub](https://github.com/Sweta-Sahani)
